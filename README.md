@@ -9,7 +9,7 @@ lurdray/lurdray is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-
+https://docs.google.com/document/d/1zsEzKSZgOPQz8cyNaToenslNrncxv9UKOEY0uKIULIA/edit?usp=sharing
 
 
 from base.wsgi import application
